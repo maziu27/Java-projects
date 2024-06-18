@@ -1,2 +1,2 @@
 # Java-projects
-Java projects for the programming subject
+Programas Java para la asignatura de Programacion para el primer año de DAW
